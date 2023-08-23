@@ -59,3 +59,9 @@ code .
 
 Push your work to GitHub
 ```
+git push
+```
+or
+```
+git push origin main
+```
