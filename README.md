@@ -42,6 +42,11 @@ Adds your hello_world.txt file to the staging area
 git add hello_world.txt
 ```
 
+Adds all files to the staging area
+```
+git add --all
+```
+
 Add message to the commit
 ```
 git commit -m "Add hello_world.txt"
